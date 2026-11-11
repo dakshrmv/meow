@@ -1,0 +1,9 @@
+{
+  "name": "sorry-website",
+  "version": "1.0.0",
+  "description": "A heartfelt sorry website",
+  "scripts": {
+    "start": "npx serve . -p 3000"
+  }
+}
+
